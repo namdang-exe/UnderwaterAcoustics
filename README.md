@@ -2,5 +2,5 @@
 
 # VandyHacks 2020
 
-# Team SunSeiv 
+# Team Lilia
 # Nam, Hoang, Duy, Sunny
