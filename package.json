@@ -1,0 +1,18 @@
+{
+  "name": "watersim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "gpucomputationrender-three": "^2.0.0",
+    "simplex-noise": "^2.4.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.121.1"
+  }
+}
